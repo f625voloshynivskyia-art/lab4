@@ -1,0 +1,15 @@
+Melnyk
+Viktoriia
+41
+Kravchenko
+Artem
+19
+PZ-22
+84.7
+Lysenko
+Sofiia
+21
+PZ-41
+94
+Neural Networks Optimization
+Hnatiuk I.S.
